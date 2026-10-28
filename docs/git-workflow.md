@@ -28,3 +28,10 @@ Use version tags such as v1.0.0 to identify releases.
 - Use branches for new features.
 - Review changes before merging.
 - Keep documentation updated.
+
+## Release Versioning
+
+- Use semantic version tags such as v1.0.0.
+- Test and review changes before releasing.
+- Merge approved feature changes into dev.
+- Merge validated development changes into main.
